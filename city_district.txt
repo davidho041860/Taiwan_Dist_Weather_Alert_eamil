@@ -1,2 +1,0 @@
-city_code = 9
-district_code = 6
