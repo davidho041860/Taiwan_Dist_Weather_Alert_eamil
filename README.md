@@ -1,1 +1,1 @@
-# Taiwan_Dist_Weather_Alert_eamil
+# Taiwan_Dist_Weather_Alert_email
