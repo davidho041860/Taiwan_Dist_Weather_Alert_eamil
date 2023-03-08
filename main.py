@@ -42,7 +42,7 @@ if __name__ == "__main__":
 
     # Sender email and google apps password
     my_email = "davidho041860@gmail.com"
-    password = "hqcyrpugcskwowmo"
+    password = "Your_Google_Apps_password"
 
     # Enter district code for specific district and city code
     # 0-瑞芳 1-三重 2-平溪 3-淡水 4-石門 5-泰山 6-新店 7-萬里 8-蘆洲 9-永和 10-貢寮
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     OWM_Endpoint_city = "https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-D0047-089"
 
     weather_params = {
-        "Authorization" : "CWB-F9B11217-1E1A-4927-9491-A1D14EA5B3A1",
+        "Authorization" : "Your_API_key",
         "format" : "JSON",
     }
 
