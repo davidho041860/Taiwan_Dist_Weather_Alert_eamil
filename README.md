@@ -1,7 +1,6 @@
 # Taiwan_Dist_Weather_Alert_email
 
-This is a easy program to send the weather alert by email.
-You can choose the district(Default: NewTaipei) and city you live in or work at.
+This is a easy program to send the weather alert by email that you can choose the district(Default: NewTaipei) and city you live in or work at.
 
 It can be ran on the pythonanywhere as automation alert sender:
 https://www.pythonanywhere.com/
